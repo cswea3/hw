@@ -1,5 +1,7 @@
 package com.craig.androidgames.framework.impl;
-
+/**
+ * Created by craig on 11/29/2015.
+ */
 import android.app.Activity;
 import android.content.Context;
 import android.content.res.Configuration;

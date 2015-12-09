@@ -1,5 +1,7 @@
 package com.craig.androidgames.framework.impl;
-
+/**
+ * Created by craig on 11/30/2015.
+ */
 import android.media.SoundPool;
 
 import com.craig.androidgames.framework.Sound;
@@ -14,7 +16,7 @@ public class AndroidSound implements Sound {
     }
 
     public void play(float volume) {
-        soundPool.play(soundId, volume, volume, 0, 0, 1);
+        soundPool.play(soundId, volume, volume, 0, -1, 1);
     }
 
     public void dispose() {

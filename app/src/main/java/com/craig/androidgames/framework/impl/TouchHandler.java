@@ -1,5 +1,7 @@
 package com.craig.androidgames.framework.impl;
-
+/**
+ * Created by craig on 11/30/2015.
+ */
 import java.util.List;
 
 import android.view.View.OnTouchListener;

@@ -1,5 +1,7 @@
 package com.craig.androidgames.framework;
-
+/**
+ * Created by craig on 12/3/2015.
+ */
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;

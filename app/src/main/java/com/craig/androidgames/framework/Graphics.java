@@ -1,5 +1,7 @@
 package com.craig.androidgames.framework;
-
+/**
+ * Created by craig on 12/4/2015.
+ */
 //encodes pixel formats
 public interface Graphics {
     public static enum PixmapFormat {

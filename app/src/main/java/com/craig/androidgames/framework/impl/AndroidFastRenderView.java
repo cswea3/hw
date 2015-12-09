@@ -1,5 +1,7 @@
 package com.craig.androidgames.framework.impl;
-
+/**
+ * Created by craig on 11/29/2015.
+ */
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Rect;

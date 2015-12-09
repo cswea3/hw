@@ -4,6 +4,7 @@ package com.craig.androidgames.hw5;
  * Created by craig on 12/3/2015.
  */
 
+
 import android.util.Log;
 
 import java.util.List;
@@ -15,7 +16,9 @@ import com.craig.androidgames.framework.Screen;
 
 public class MainMenuScreen extends Screen {
     public MainMenuScreen(Game game) {
+
         super(game);
+
     }
 
     public void update(float deltaTime) {
@@ -55,9 +58,7 @@ public class MainMenuScreen extends Screen {
         }
 
         g.drawPixmap(Assets.playButton, 60, 75);
-        g.drawPixmap(Assets.helpButton, 60, 150);
-        g.drawPixmap(Assets.leftButton, 0, 420);
-        g.drawPixmap(Assets.rightButton, 245, 420);
+
 
 
 
